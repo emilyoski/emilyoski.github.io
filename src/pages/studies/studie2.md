@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: Bachelor of Science in Mechanical Engineering
+location: University of South Carolina (the real USC)
+url: https://sc.edu/study/colleges_schools/engineering_and_computing/departments/mechanical_engineering/index.php
+institute: University of South Carolina
+date: 2011-2015
+tags: ['Engineer', 'Naval ROTC', 'Capstone Scholar', 'Intramural Champion']
 ---

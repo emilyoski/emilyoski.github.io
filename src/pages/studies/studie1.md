@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Naval Nuclear Engineer
+location: Naval Nuclear Power School
+url: https://www.navsea.navy.mil/home/NNPTC/
+institute: Naval Nuclear Power Training Command
+date: 2017-2018
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    'Top 10%',
+    'Nuclear Engineering',
+    'Electrical Engineering',
+    'Physics & Math',
+    'Thermodynamics',
   ]
 ---
