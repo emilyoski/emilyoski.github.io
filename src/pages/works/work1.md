@@ -1,14 +1,22 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Software Engineer
+date: 2024 - Present
+url: https://www.anzarenewables.com/
+location: Portland, OR
+org: Anza Renewables
+tags:
+  [
+    'Full Stack',
+    'React',
+    'TypeScript',
+    'PostgreSQL',
+    'JavaScript',
+    'Express',
+    'GA4/GTM',
+    'Node.js',
+  ]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+I build things. Frontend, backend, database, data analytics. I solve problems and ship code. (and then write tests for those problems too).
+
+- More info can found on my LinkedIn or resume.

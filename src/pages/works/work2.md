@@ -1,17 +1,16 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Naval Officer & Defense Contracting
+date: 2015 - 2022
+url: https://www.navy.mil/
+location: Various Locations
+org: United States Navy
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    'Gunnery Officer',
+    'Surface Warfare',
+    'Nuclear Engineer',
+    'Nuclear Reactor',
+    'Team Lead',
   ]
 ---
 
