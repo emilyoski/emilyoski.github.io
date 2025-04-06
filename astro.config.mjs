@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://emilyoski.github.io',
+  site: 'https://www.emilyolszewski.dev',
   integrations: [tailwind(), icon(), compress()],
   output: 'static',
 });
