@@ -17,6 +17,6 @@ tags:
   ]
 ---
 
-I build things. Frontend, backend, database, data analytics. I solve problems and ship code. (and then write tests for those problems too).
+I'm a problem solver that loves seeing solutions come to life. I've worked throughout the tech stack.
 
 - More info can found on my LinkedIn or resume.
