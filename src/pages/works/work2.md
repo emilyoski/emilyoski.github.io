@@ -14,8 +14,6 @@ tags:
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+I led people through high-stress situations, including starting up nuclear reactor plants, live-fire weapons exercises, conducting ship operations and certifications.
+
+- More info can found on my LinkedIn or resume.

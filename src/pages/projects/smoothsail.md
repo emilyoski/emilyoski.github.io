@@ -1,7 +1,7 @@
 ---
 title: SmoothSail
 url: https://smooth-sail.github.io/
-tags: ['react', 'javaScript', 'SDK', 'HTML', 'Express', 'Feature Flags']
+tags: ['React', 'JavaScript', 'SDK', 'HTML', 'Express', 'Feature Flags']
 date: 2023
 ---
 
