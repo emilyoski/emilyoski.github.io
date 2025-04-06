@@ -5,7 +5,7 @@ import Header from "../components/Header.astro";
 import { Icon } from "astro-icon/components";
 ---
 
-<html lang="gl">
+<html lang="en">
   <head>
     <script is:inline>
       if (localStorage.getItem("theme") === null) {
@@ -16,7 +16,7 @@ import { Icon } from "astro-icon/components";
           localStorage.getItem("theme")
         );
     </script>
-    <script>
+    <script is:inline>
       import { themeChange } from "theme-change";
       themeChange();
     </script>
